@@ -1,3 +1,3 @@
 	program hello
-	write(*,*) "Hello"
+	write(*,*) "Hello, branch"
 	end
